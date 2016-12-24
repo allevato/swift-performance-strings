@@ -245,6 +245,7 @@
 			buildSettings = {
 				DEVELOPMENT_TEAM = BM6BV7V52K;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
