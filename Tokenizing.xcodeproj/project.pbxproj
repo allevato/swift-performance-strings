@@ -14,6 +14,7 @@
 		AAACB18C1E0D9A12005FE286 /* CharacterBasedTokenizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAACB18B1E0D9A12005FE286 /* CharacterBasedTokenizer.swift */; };
 		AAACB18E1E0D9B39005FE286 /* SampleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAACB18D1E0D9B39005FE286 /* SampleData.swift */; };
 		AAACB1901E0D9BC7005FE286 /* Measuring.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAACB18F1E0D9BC7005FE286 /* Measuring.swift */; };
+		AAACB1941E124099005FE286 /* UnicodeScalarBasedTokenizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAACB1931E124099005FE286 /* UnicodeScalarBasedTokenizer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +38,7 @@
 		AAACB18B1E0D9A12005FE286 /* CharacterBasedTokenizer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CharacterBasedTokenizer.swift; sourceTree = "<group>"; };
 		AAACB18D1E0D9B39005FE286 /* SampleData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SampleData.swift; sourceTree = "<group>"; };
 		AAACB18F1E0D9BC7005FE286 /* Measuring.swift */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = Measuring.swift; sourceTree = "<group>"; };
+		AAACB1931E124099005FE286 /* UnicodeScalarBasedTokenizer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UnicodeScalarBasedTokenizer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				AAACB1851E0D99F2005FE286 /* Token.swift */,
 				AAACB1891E0D9A05005FE286 /* Tokenizing.swift */,
 				AAACB1871E0D99FB005FE286 /* TokenizingError.swift */,
+				AAACB1931E124099005FE286 /* UnicodeScalarBasedTokenizer.swift */,
 			);
 			path = Tokenizing;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				AAACB18E1E0D9B39005FE286 /* SampleData.swift in Sources */,
 				AA34E5E31DF120D5006CE7AE /* main.swift in Sources */,
 				AAACB18A1E0D9A05005FE286 /* Tokenizing.swift in Sources */,
+				AAACB1941E124099005FE286 /* UnicodeScalarBasedTokenizer.swift in Sources */,
 				AAACB1861E0D99F2005FE286 /* Token.swift in Sources */,
 				AAACB1901E0D9BC7005FE286 /* Measuring.swift in Sources */,
 				AAACB1881E0D99FB005FE286 /* TokenizingError.swift in Sources */,
